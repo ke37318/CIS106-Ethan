@@ -1,1 +1,1 @@
-# Session-1
+My name is Ethan Knapp and I am a student in your CIS106 class. I was unsure about taking this class until a couple of my buddies recommended it. I started to look into it and realized this may be a bit more interesting than I thought at first, so I decided to enroll in your class. I also was planning on transferring to U of I and they require computer science for my degree but I am unfortunately not able to apply there.
